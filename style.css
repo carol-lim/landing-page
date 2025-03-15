@@ -137,3 +137,11 @@ body {
     color: #E5E7EB;
     padding: 8px 18px;
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    color: #E5E7EB;
+    padding: 28px;
+}
