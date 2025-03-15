@@ -113,3 +113,27 @@ body {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.call-to-action {
+    padding: 64px 84px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 48px 64px;
+    color: #E5E7EB;
+    margin: 84px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box h3, .box p{
+    margin: 0;
+}
+
+.call-to-action button {
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+    border-style: solid;
+    border-radius: 5px;
+    color: #E5E7EB;
+    padding: 8px 18px;
+}
