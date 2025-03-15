@@ -95,3 +95,21 @@ body {
     height: 100px;
     border-radius: 5px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 64px 84px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote span {
+    font-weight: bold;
+    align-self: flex-end;
+}
