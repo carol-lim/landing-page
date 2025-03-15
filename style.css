@@ -11,7 +11,7 @@ body {
     background-color: #1F2937;
     color: #F9FAF8;
     align-items: center;
-    padding: 16px 84px;
+    padding: 16px 300px;
 }
 
 .header .logo {
@@ -39,7 +39,8 @@ body {
 .hero {
     background-color: #1F2937;
     display: flex;
-    padding: 84px;
+    justify-content: center;
+    padding: 84px 300px;
 }   
 
 .hero .container {
@@ -70,7 +71,7 @@ body {
 }
 
 .info {
-    padding: 64px 84px;
+    padding: 64px 300px;
     text-align: center;
 }
 
@@ -98,7 +99,7 @@ body {
 
 .quote {
     background-color: #E5E7EB;
-    padding: 64px 84px;
+    padding: 64px 300px;
     display: flex;
     flex-direction: column;
 }
@@ -115,12 +116,12 @@ body {
 }
 
 .call-to-action {
-    padding: 64px 84px;
+    padding: 64px 300px;
     background-color: #3882F6;
     border-radius: 5px;
     padding: 48px 64px;
     color: #E5E7EB;
-    margin: 84px;
+    margin: 84px 300px; 
     display: flex;
     justify-content: space-between;
 }
